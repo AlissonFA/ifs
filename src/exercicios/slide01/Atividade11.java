@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.slide01;
 import java.util.Scanner;
 import java.util.Locale;
 
