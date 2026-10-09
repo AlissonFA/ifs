@@ -1,4 +1,4 @@
-package exercicios.slide02;
+package exercicios.setembro.slide02;
 import java.util.Scanner;
 
 /**
