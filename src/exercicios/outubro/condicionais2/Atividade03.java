@@ -3,7 +3,10 @@ package exercicios.outubro.condicionais2;
 import java.util.Scanner;
 
 /**
- * Combustível
+ * 3. Um posto está vendendo combustíveis com a seguinte tabela de descontos: (inserido no código).
+ * Escreva um programa que leia o número de litros vendidos e o tipo de combustível (
+ * A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se
+ * que o preço do litro da gasolina é R$ 6,40 e o preço do litro do álcool é R$ 4,20.
  */
 public class Atividade03 {
     void main() {
