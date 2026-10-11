@@ -2,6 +2,10 @@ package exercicios.outubro.condicionais;
 
 import java.util.Scanner;
 
+/**
+ * Questão 03. Escreva um programa que, dados dois números inteiros, mostre na tela o
+ * maior deles, assim como a diferença que existente entre ambos.
+ */
 public class Atividade03 {
     void main() {
         Scanner sc = new Scanner(System.in);
