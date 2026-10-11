@@ -3,7 +3,10 @@ package exercicios.outubro.condicionais2;
 import java.util.Scanner;
 
 /**
- * Análise de Crédito
+ * Um banco concederá um crédito especial aos seus clientes, de acordo com o saldo
+ * médio no último ano. Faça um programa que receba o saldo médio de um cliente e
+ * calcule o valor do crédito, de acordo com a tabela a seguir (inserido no código). Mostre o saldo médio e o
+ * valor do crédito.
  */
 public class Atividade05 {
     void main() {
