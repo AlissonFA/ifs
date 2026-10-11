@@ -2,6 +2,13 @@ package exercicios.outubro.condicionais;
 
 import java.util.Scanner;
 
+/**
+ * Questão 06. Elabore um programa que calcule o valor que deve ser pago por um produto,
+ * considerando o preço normal de etiqueta que será fornecido pelo usuário. Em seguida
+ * pergunte ao usuário se o pagamento será à vista. Caso o valor seja pago à vista deve ser
+ * dado um desconto de 10%. Caso contrário, o pagamento será parcelado,assim, solicite a
+ * quantidade de parcelas e mostre o valor da parcela.
+ */
 public class Atividade06 {
     void main() {
         final double DESCONTOAVISTA = 0.90; // Retirando do 100%
