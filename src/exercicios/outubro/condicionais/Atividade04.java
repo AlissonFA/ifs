@@ -3,6 +3,11 @@ package exercicios.outubro.condicionais;
 import java.util.Scanner;
 import java.util.Locale;
 
+/**
+ * Questão 04. Escreva um programa que pergunte o salário de um funcionário. Calcule e
+ * mostre o valor do aumento e o valor do novo salário sabendo que: para salários superiores
+ * a R$ 1500,00 calcule um aumento de 10%. Para inferiores ou iguais, de 15%.
+ */
 public class Atividade04 {
     void main() {
         final double AUMENTO1 = 1.10;
