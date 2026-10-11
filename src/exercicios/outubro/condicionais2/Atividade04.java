@@ -3,7 +3,11 @@ package exercicios.outubro.condicionais2;
 import java.util.Scanner;
 
 /**
- * Escolha de Operação
+ * Faça um programa que receba dois números reais e execute as operações listadas no
+ * menu de opções abaixo (inserido no código).
+ * Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do
+ * programa. Lembre-se de que, na operação 4, o segundo número deve ser diferente de
+ * zero.
  */
 public class Atividade04 {
     void main() {
