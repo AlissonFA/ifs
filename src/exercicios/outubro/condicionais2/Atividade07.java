@@ -27,7 +27,6 @@ public class Atividade07 {
         double minutos = h * 60;
         double premio;
 
-
         if (minutos < 600) {
             premio = GRATIFICACAO_MENOR_600;
         } else if (minutos < 1200) {
