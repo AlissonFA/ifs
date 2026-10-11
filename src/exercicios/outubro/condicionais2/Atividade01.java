@@ -3,7 +3,9 @@ package exercicios.outubro.condicionais2;
 import java.util.Scanner;
 
 /**
- * Pode votar e tirar habilitação?
+ * 1. Desenvolva um programa que leia o ano de nascimento de uma pessoa e o ano atual,
+ * calcule e mostre sua idade e , também, verifique e mostre se ela já tem idade para
+ * votar (16 anos ou mais) e para conseguir a carteira de habilitação (18 anos ou mais).
  */
 public class Atividade01 {
     void main() {
