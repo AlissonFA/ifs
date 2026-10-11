@@ -3,7 +3,10 @@ package exercicios.outubro.condicionais2;
 import java.util.Scanner;
 
 /**
- * Gratificação da Empresa
+ * Uma empresa decidiu dar uma gratificação de Natal a seus funcionários, baseada no
+ * número de horas extras e no número de horas que o funcionário faltou ao trabalho.
+ * O valor do prêmio é obtido pela consulta à tabela que se segue (inserido no código), na qual:
+ * H = número de horas extras – (2/3 * (número de horas falta))
  */
 public class Atividade07 {
     void main() {
