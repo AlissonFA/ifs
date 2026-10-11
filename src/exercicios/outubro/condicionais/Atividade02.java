@@ -2,6 +2,11 @@ package exercicios.outubro.condicionais;
 
 import java.util.Scanner;
 
+/**
+ * Questão 02. Escreva um programa que pergunte a velocidade do carro de um usuário.
+ * Caso ultrapasse 80 km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse
+ * caso, exiba o valor da multa, cobrando R$ 5,00 por km acima de 80Km/h.
+ */
 public class Atividade02 {
     void main() {
         Scanner sc = new Scanner(System.in);
