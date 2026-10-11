@@ -4,7 +4,11 @@ import java.util.Scanner;
 import java.util.Locale;
 
 /**
- * Peso Ideal
+ * Faça um programa que receba a altura(m), o sexo biológico (F- feminino/M-masculino)
+ * de uma pessoa e seu peso (kg) e mostre uma mensagem informando se ela está no
+ * peso ideal, acima ou abaixo. Utilize as fórmulas abaixo para cálculo de peso ideal:
+ * ■■ Masculino: (72.7 *altura) – 58.
+ * ■■ Feminino: (62.1 *altura) – 44.7.
  */
 public class Atividade06 {
     void main() {
