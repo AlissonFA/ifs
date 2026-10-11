@@ -2,6 +2,11 @@ package exercicios.outubro.condicionais;
 
 import java.util.Scanner;
 
+/**
+ * Questão 05. Escreva um programa que pergunte a distância que um passageiro deseja
+ * percorrer em km. Calcule o preço da passagem, cobrando R$ 2,50 por km para viagens até
+ * 200 km, e R$ 3,45 para viagens mais longas.
+ */
 public class Atividade05 {
     void main() {
         double custoPassagem;
